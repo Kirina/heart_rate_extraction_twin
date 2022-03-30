@@ -1,0 +1,1 @@
+~/c-submit --gpu-count=1 --require-gpu-mem=20G --require-cpus=2 --require-mem=20G --priority=high kirinavanderbijl 7530 148 doduo1.umcn.nl/kirinavanderbijl/twinproject:custom
