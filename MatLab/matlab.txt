@@ -1,0 +1,1 @@
+This folder contains the MatLab code used to find the heart rates from the extracted ECG data. 
