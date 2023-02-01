@@ -1,5 +1,5 @@
 # heart_rate_extraction_twin
-This (private) repository is part of my Masters internship at AI for Health. 
+This repository is part of my Masters internship at AI for Health. 
 
 The main_wave_u_net_8_channel_out.ipynb file contains the main model. This file imports functions from the utils.py and data_preprocessing.py files and its parameters from the unet_config.py file. The load_history.ipynb can present the results from the wave-u-net model. 
 
